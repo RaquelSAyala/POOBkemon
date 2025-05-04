@@ -1,5 +1,5 @@
 package domain;
-
+//askdjahsd//
 public class Game {
     private Trainer trainer1;
     private Trainer trainer2;
