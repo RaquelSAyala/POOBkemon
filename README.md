@@ -3,18 +3,28 @@
 Sigue estos pasos para compilar y ejecutar el proyecto desde la terminal:
 
 ## 1. Clona el repositorio
+
+```bash
 git clone https://github.com/CatizPlum/POOBkemon.git
 cd POOBkemon
+```
 
 ## 2. Crea la carpeta de compilación
+
+```bash
 mkdir -p bin
+```
 
 ## 3. Compila el proyecto
+
+```bash
 javac -d bin -cp src src/gui/POOBkemon.java
+```
 
 ## 4. Ejecuta el programa
+```bash
 java -cp bin gui.POOBkemon
-
+```
 # ✅ Requisitos
 
 - Java JDK 11 o superior instalado  
