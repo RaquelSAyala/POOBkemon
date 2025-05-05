@@ -277,7 +277,7 @@ public class Table {
                 secondary = 2;
             }
         }
-
+    
         return primary * secondary;
     }
 }
