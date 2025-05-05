@@ -2,7 +2,7 @@
 
 Sigue estos pasos para compilar y ejecutar el proyecto desde la terminal:
 
-## 1. Clona el repositorio
+## 1. Clona el repositorio e ingresar al directorio
 
 ```bash
 git clone https://github.com/CatizPlum/POOBkemon.git
