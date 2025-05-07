@@ -1,18 +1,5 @@
 package domain;
 
-// Enumeración para los tipos de Pokémon
-enum Type {
-    NORMAL, FIRE, WATER, PLANT, ELECTRIC, ICE, FIGHTING, 
-    POISON, GROUND, FLYING, PSYCHIC, BUG, ROCK, GHOST, 
-    DRAGON, DARK, STEEL, FAIRY
-}
-
-// Enumeración para las categorías de movimientos
-enum MoveCategory {
-    PHYSICAL, SPECIAL, STATUS
-}
-
-// Clase para representar los movimientos de los Pokémon
 public class Move {
     private String name;
     private Type type;
